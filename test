@@ -1,0 +1,18 @@
+https://csos.cloudcare.cn/console.html#/operation/workgroup/2746?type=ecs
+用户名密码：hongbin.zhao@easystack.cn/CSOS1234
+团队码：sipom
+
+工作组-->主机-->连接，获取如下信息
+主机:210.12.119.98:9389
+用户名：cX18DkWY_administrator    #每次可能会变
+
+windows下打开远程桌面
+按住win+r，输入mstsc
+输入上面的主机地址，单击“显示选项”，输入上面的用户名
+
+然后登录到windows，用户名密码如下：
+easystack/ez@sipom123
+
+云平台地址：
+dashboard:192.168.200.2
+node-1:192.168.200.3
